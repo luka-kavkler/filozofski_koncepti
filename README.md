@@ -4,7 +4,7 @@ Okvirno avtorji (nimam še povsem natančno določenih):
  - Kuzanski -> matematične analogije za boga
  - Spinoza -> ... 
  - Nietzsche -> zmota predpostavke subjekta
- - Foucault -> panoptikon 
+ - Foucault -> struktura oblasti 
  - Deleuze -> razpoka
  - ...
 

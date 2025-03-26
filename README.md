@@ -3,7 +3,7 @@ Poskus (okvirnega in poenostavljenega) prikaza raznih konceptov iz zgodovine fil
 Okvirno avtorji (nimam še povsem natančno določenih):  
  - Kuzanski -> matematične analogije za boga
  - Spinoza -> ... 
- - Nietzsche -> zmota predpostavke enotnega subjekta
+ - Nietzsche -> zmota predpostavke subjekta
  - Foucault -> panoptikon 
  - Deleuze -> razpoka
  - ...
